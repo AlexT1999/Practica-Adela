@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+  <head>
+    <meta charset="utf-8">
+    <title>Ejemplo de 2 párrafos</title>
+  </head>
+  <body>
+   <ul>
+   <li>
+   <a href="indice.html">indice</a>
+   </li>
+   <li>
+   <a href="description.html">description</a>
+   </li>
+  
+   </ul>
+    <p>Esto es Pagina2.</p>
+    <p>Esto es otro párrafo.</p>
+  </body>
+</html>
