@@ -1,0 +1,5 @@
+9- Ignora el fichero "personal.txt" ya que como es un fichero que contiene información personal no ha de formar parte del proyecto, y asegúrate que ya no detecta el fichero "personal.txt" (se trata de crear un archivo llamado ".gitignore" en la raíz del proyecto para guardar en él lo que no se desea que forme parte del proyecto).
+10- Crea y añade algunos ficheros más (html y css) que formarán parte del proyecto para probar el repositorio.
+11- Vincula el repositorio local con el repositorio en GitHub: Utilizar el comando "git remote add origin [URL del repositorio en GitHub]" para vincular el repositorio local con el repositorio en GitHub.
+12- Sube los archivos al repositorio en GitHub (comando "git push -u origin master"), y verifica que los archivos se hayan subido correctamente.
+13- Realiza algunos cambios más en el proyecto en local y repite los pasos para añadirlos al repositorio local y después subirlos al remoto.
